@@ -52,3 +52,6 @@ function App() {
 }
 
 export default App;
+
+// HOSTING URL
+// https://react-deployment-demo-64bca.web.app/
